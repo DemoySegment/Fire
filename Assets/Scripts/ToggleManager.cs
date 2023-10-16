@@ -16,4 +16,5 @@ public class ToggleManager : MonoBehaviour
             SoundAudio.Play();
         }
     }
+  
 }
